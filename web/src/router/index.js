@@ -191,7 +191,7 @@ const router = new VueRouter({
       name: 'register',
       path: '/register',
       component: Register
-    }
+    },
 
     // { path: '*', redirect: '/login' }
   ]
